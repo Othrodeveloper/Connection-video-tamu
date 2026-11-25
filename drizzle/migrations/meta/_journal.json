@@ -1,0 +1,139 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794642268511,
+      "tag": "0000_tranding_video_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794642366134,
+      "tag": "0001_storage_policies_and_seed",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794642487543,
+      "tag": "0002_avatar_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794702517406,
+      "tag": "0003_admin_account_and_editable_settings",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1794817404854,
+      "tag": "0004_user_verify_block_offers_and_page_content",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1794884527084,
+      "tag": "0005_visitor_analytics_and_admin_actions",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1794961096440,
+      "tag": "0006_admin_video_play_stats",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1795074115359,
+      "tag": "0007_sonicpesa_trial_and_admin_sections",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1795266574280,
+      "tag": "0008_safe_admin_cleanup",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1795266785168,
+      "tag": "0009_full_admin_assignment_and_private_payment_key",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1795267531271,
+      "tag": "0010_fix_signup_welcome_subscription_source",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1795267853315,
+      "tag": "0011_restrict_notification_reads_to_released_content",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1795269072090,
+      "tag": "0012_add_sonicpesa_secret_and_safe_status",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1795269963336,
+      "tag": "0013_group_checkout_and_account_cleanup",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1795270101066,
+      "tag": "0014_complete_account_detail_cleanup",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1795270228471,
+      "tag": "0015_trial_setting_defaults",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1795351199091,
+      "tag": "0016_persist_channel_follow_and_reminders",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1795424423993,
+      "tag": "0017_server_safe_payments_and_trial",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1795502308591,
+      "tag": "0018_payments_and_trial_without_hosting_server",
+      "breakpoints": true
+    }
+  ]
+}

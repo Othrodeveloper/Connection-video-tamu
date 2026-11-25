@@ -1,0 +1,24 @@
+# Roadmap
+
+- [x] Malipo yamepunguzwa kuwa hatua mbili: chagua kifurushi/group, kisha namba na uthibitisho; hatua zote mbili zimekaguliwa kwa simu
+- [x] Malipo yaliyothibitishwa yanaonesha kwenye dashboard na kufungua access/video kupitia polling na query refresh
+- [x] Trial ni sekunde 5 na sanduku dogo, wazi la LIPIA KUTAZAMA
+- [x] Channel invitation ina DP, jina, link inayoharirika au link ya Support, Follow iliyohifadhiwa na Back ya dakika 10
+- [x] Build, majaribio 26, admin dashboard, channel settings na malipo ya hatua mbili kwa simu vimekaguliwa bila runtime errors
+- [x] SonicPesa payment confirmation hardened with safe Swahili errors, request timeout, provider-response parsing and regression tests
+- [x] Group-priced payments share the wizard; confirmation grants membership, not video access
+- [x] Admin-uploaded, named and ordered group introduction slideshow implemented
+- [x] Full-admin selected-account deletion and confirmation implemented, with staff protection and anonymized financial records
+- [ ] Signed-in verification of trial expiry, group checkout, image upload and account deletion/re-registration: test-session creation declined; needs a signed-in preview session
+- [x] SonicPesa create/status integration and ninety-second waiting flow; manual approval fallback remains available
+- [x] Full-admin payment configuration page without exposing the stored key
+- [x] Trial playback uses a fixed five-second limit; welcome minutes remain disabled
+- [x] Second-by-second red/green subscription countdown and expiry refresh
+- [x] Maadmin page and section-filtered navigation with database permission enforcement
+- [x] Confirmed, scoped cleanup and local cache refresh; successful/pending payments and accounts remain untouched
+- [x] Uploaded a temporary episode MP4 through admin, played it, verified Continue Watching and removed the test series
+- [x] Mobile/desktop checks and seven focused tests passed
+- [ ] Live SonicPesa SUCCESS/USSD verification: secure storage of the newly supplied credentials was declined; save them in Admin → Unganisha Malipo, then approve a real payment on a confirmed phone
+- [ ] Live WhatsApp Follow destination: requires the owner's channel URL in settings
+- [x] New-account signup and welcome access verified through the registration form; profile opens and thirty-minute access reads back
+- [ ] Ordinary-account trial expiry and restricted-staff end-to-end verification: not yet exercised
